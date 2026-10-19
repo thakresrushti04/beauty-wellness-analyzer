@@ -11,7 +11,7 @@ underperforms at 3.0 avg rating.
 - **Price Range:** $3 to $1,900
 
 ## Tools & Libraries
-`Python` | `Pandas` | `NumPy` | `Plotly` | `SQLite` | `Google Colab`
+`Python` | `Pandas` | `NumPy` | `Plotly` | `SQLite` | `Power BI` | `Google Colab`
 
 ---
 
@@ -40,6 +40,10 @@ underperforms at 3.0 avg rating.
 ### 6. SQL Aggregate Analysis
 *SQLite queries — top categories, brands, and products by rating*
 ![SQL Analysis](./B6.png)
+
+### 7. Power BI Dashboard
+*KPI cards, top 10 brands, category distribution, and average price by category with a category slicer*
+![Power BI Dashboard](./PowerBI_Dashboard.png)
 
 ---
 
