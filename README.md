@@ -53,9 +53,6 @@ underperforms at 3.0 avg rating.
   combination.
 - **Premium Makeup ($200+)** averages only 3.0 — the lowest 
   rating in the dataset.
-- **Skincare and Makeup** together account for the majority 
-  of products; Skincare leads in sub-category variety.
-- **Tools & Brushes** show the most consistent ratings 
-  across all price ranges.
+- **Makeup and Skincare** are the largest categories by product count (2,328 and 2,351 products).
 - **SEPHORA COLLECTION** has the most products (351), 
   followed by CLINIQUE (177) and Dior (133).
