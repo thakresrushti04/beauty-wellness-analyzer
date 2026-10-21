@@ -51,8 +51,8 @@ underperforms at 3.0 avg rating.
 - **Men's category** has the highest average rating (4.62) 
   in the $0–25 price range, the highest of any category-price 
   combination.
-- **Premium Makeup ($200+)** averages only 3.0 — the lowest 
-  rating in the dataset.
+- **Premium Makeup ($200+)** averages only 3.0, the lowest 
+  cell in the category-price heatmap.
 - **Makeup and Skincare** are the largest categories by product count (2,328 and 2,351 products).
 - **SEPHORA COLLECTION** has the most products (351), 
   followed by CLINIQUE (177) and Dior (133).
